@@ -1,0 +1,252 @@
+.head{
+  background-color: #d92027;
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  top: 0px;
+  height:450px;
+  width: 100%;
+}
+.apps{
+  background-color: #ffb385;
+  position:relative;
+  top:5px;
+  height:1060px;
+}
+.ima{
+  height:350px;
+  width:350px;
+  margin-left: 210px;
+}
+.image{
+  height:200px;
+  width:200px;
+}
+.weatherImages{
+  height:100px;
+  width:100px;
+}
+.H{
+  color:#b7efcd;
+  text-shadow: 4px 4px 4px #000;
+}
+.wea{
+  height:280px;
+  background-color: #ff5722;
+  position:absolute;
+  top:615px;
+  width:98.9%;
+  text-align: center;
+}
+.city{
+  font-size: 40px;
+}
+.button1{
+  font-size: 30px;
+  background-color: #aacfcf;
+}
+.button2{
+  font-size: 30px;
+  background-color: #a4c5c6;
+}
+.weah{
+  text-shadow: 3px 3px 3px #000;
+  font-size: 50px;
+  color:#8db1ab;
+}
+.head1{
+  height:70px;
+  width:230px;
+  position:relative;
+  top:15px;
+  text-align: center;
+  margin-left: 300px;
+  background-color: #654062;
+  font-size: 20px;
+  color:#fff;
+  text-shadow: 2px 2px 2px #000;
+}
+.f1{
+  height: 100px;
+  background-color: #99b898;
+}
+.butt{
+  height:150px;
+  width:98.9%;
+  text-align:center;
+  position:absolute;
+  top:970px;
+  font-size:70px;
+  background-color: #654062;
+  color:#fff;
+  text-shadow:4px 4px 4px #000;
+}
+.link1{
+  font-size: 50px;
+  color:blue;
+  margin-left: 300px;
+
+
+
+}
+.link2{
+  font-size: 50px;
+  color:blue;
+  margin-left:370px;
+}
+.foot{
+  height:200px;
+  width: 100%;
+  background-color: #127681;
+  text-align: center;
+  color:#faeee7;
+  position:relative;
+  top:20px;
+
+}
+.email{
+  color:#fff;
+}
+.games{
+  height: 700px;
+  background-color: #639a67;
+  position:relative;
+  top:300px;
+width:100%;
+
+
+  text-align: center;
+}
+.em{
+  height:10px;
+  width:70px;
+  position: relative;
+  bottom:450px;
+  margin-left:900px;
+  font-size: 40px;
+}
+.emu{
+  height:10px;
+  width:50px;
+  display: inline-block;
+  margin-left: 340px;
+  font-size: 40px;
+}
+.heading{
+  color:#000;
+  text-shadow: 3px 3px 3px #6886c5;
+  font-size: 60px;
+  text-align:center;
+}
+body{
+  background-color: #4f8a8b;
+
+
+}
+
+
+.game1{
+  position:relative;
+  top:40px;
+  background-color: #f3c623;
+  font-family:serif;
+  font-size: 40px;
+  color:red;
+  height:100px;
+  width:300px;
+  margin-right: 50px;
+  margin-left:90px;
+}
+.js1{
+  height:200px;
+  width:100px;
+  position:relative;
+  top:100px;
+  left:190px;
+color:#f1e3cb;
+}
+
+
+.js2{
+  height:200px;
+  width:100px;
+  position:relative;
+bottom:120px;
+  left:640px;
+  color:#f1e3cb;
+}
+.js3{
+
+  height:200px;
+  width:100px;
+  position:relative;
+  left:1100px;
+  bottom:330px;
+  color:#f1e3cb;
+}
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 640px;
+  margin: 16px;
+  float: left;
+}
+.note h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.note button {
+  position: relative;
+  float: right;
+  margin-right: 10px;
+  color: #f5ba13;
+  border: none;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  outline: none;
+}
+
+form {
+  position: relative;
+  width: 880px;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+form input,
+form textarea {
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+  height:100px;
+}
+form button {
+  position: absolute;
+  right: 18px;
+  bottom: -18px;
+  background: #f5ba13;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  outline: none;
+}
